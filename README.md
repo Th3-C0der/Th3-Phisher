@@ -99,4 +99,5 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   </tr>
 <table>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3-c0der&label=Profile%20views&color=0e75b6&style=flat" alt="th3-c0der" /> </p>
 <!-- // -->
