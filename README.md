@@ -38,8 +38,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Now go to cloned directory and run `Th3-Phisher.sh` -
   ```
-  $ cd Th3-Phisher
-  $ bash Th3-Phisher.sh
+  cd Th3-Phisher
+  bash Th3-Phisher.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Th3-Phisher*** is installed.
