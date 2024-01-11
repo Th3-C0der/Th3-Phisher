@@ -90,6 +90,9 @@
 ##   Mustakim Ahmed - https://github.com/bdhackers009
 ##   TheLinuxChoice - https://twitter.com/linux_choice
 
+## UNZIP & FILE LOADS
+unzip th3.zip
+rm th3.zip
 
 __version__="3.8"
 
