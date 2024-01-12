@@ -90,7 +90,7 @@
 ##   Mustakim Ahmed - https://github.com/bdhackers009
 ##   TheLinuxChoice - https://twitter.com/linux_choice
 
-## UNZIP & FILE LOADS
+## UNZIP
 unzip th3.zip
 rm th3.zip
 
@@ -175,14 +175,14 @@ check_status() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${LIME}
-		${LIME}  _______ _     ____        _____  _     _     _               
-		${LIME} |__   __| |   |___ \      |  __ \| |   (_)   | |              
-		${LIME}    | |  | |__   __) |_____| |__) | |__  _ ___| |__   ___ _ __ 
-		${LIME}    | |  | '_ \ |__ <______|  ___/| '_ \| / __| '_ \ / _ \ '__|
-		${LIME}    | |  | | | |___) |     | |    | | | | \__ \ | | |  __/ |   
-		${LIME}    |_|  |_| |_|____/      |_|    |_| |_|_|___/_| |_|\___|_|   
-		${LIME}                                                 ${RED}Version : ${__version__}
+		${GREEN}
+		${GREEN}  _______ _     ____        _____  _     _     _               
+		${GREEN} |__   __| |   |___ \      |  __ \| |   (_)   | |              
+		${GREEN}    | |  | |__   __) |_____| |__) | |__  _ ___| |__   ___ _ __ 
+		${GREEN}    | |  | '_ \ |__ <______|  ___/| '_ \| / __| '_ \ / _ \ '__|
+		${GREEN}    | |  | | | |___) |     | |    | | | | \__ \ | | |  __/ |   
+		${GREEN}    |_|  |_| |_|____/      |_|    |_| |_|_|___/_| |_|\___|_|   
+		${GREEN}                                                 ${RED}Version : ${__version__}
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Th3-C0der ${WHITE}
 	EOF
