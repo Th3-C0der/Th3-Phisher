@@ -46,6 +46,14 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ##
 
+###Launch
+```
+  cd Th3-Phisher
+  bash Th3.sh
+  ```
+
+##
+
 <p align="left">
   <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Th3-C0der/Th3-Phisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 </p>
