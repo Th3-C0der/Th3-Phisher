@@ -47,6 +47,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 ##
 
 ### Launch
+- Next Time Just Do This Steps To Launch **Th3-Phisher**
 ```
   cd Th3-Phisher
   bash Th3.sh
