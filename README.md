@@ -42,12 +42,12 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   bash Th3-Phisher.sh
   ```
 
-- On first launch, It'll install the dependencies and that's it. ***Th3-Phisher*** is installed.
+- Follow this steps and it'll install the dependencies and that's it. ***Th3-Phisher*** is installed.
 
 ##
 
 ### Launch
-- Next Time Just Do This Steps To Launch **Th3-Phisher**
+- Next time just follow this steps to launch ***Th3-Phisher***
 ```
   cd Th3-Phisher
   bash Th3.sh
