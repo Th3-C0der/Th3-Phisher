@@ -3,7 +3,7 @@
 ##   Th3-Phisher 	: 	Automated Phishing Tool
 ##   Author 	        :       Th3-C0der 
 ##   Version         	:       3.8
-##   Github.        	: 	https://github.com/Th3-C0der/Th3-Phisher
+##   Github        	: 	https://github.com/Th3-C0der/Th3-Phisher
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
